@@ -12,6 +12,8 @@ import butterknife.OnClick;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Ada ksalahan dalam commit message
+    //jadi saya commit lagi
     @BindView(R.id.editTextNama)
     EditText etNama;
     @BindView(R.id.textViewHasil)
